@@ -1,13 +1,10 @@
 # Module_19_Homework
 
 ## Ganache Balance Post-Transactions
-![Image](Starter_Code/Images/Ganache_Balance_PostTran.png)
+![Image](Starter_Code/Images/Initial_Balance_Ganache.png)
 
 ## Transaction Detail
-![image](Starter_Code/Images/PostSecondaryPayment_Lane_TXDetails.png)
+![image](Starter_Code/Images/Lane_Tran_Detail.png)
 
-## Comprehensive Transaction Summary
-![image](Starter_Code/Images/Comprehensive_TranSummary.png)
-
-## Initial Tran - Streamlit Image
-![image](Starter_Code/Images/Streamlit_Jo_Details.png)
+## Payment Summary
+![image](Starter_Code/Images/Lane_Payment.png)
